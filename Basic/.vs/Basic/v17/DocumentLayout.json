@@ -3,44 +3,48 @@
   "WorkspaceRootPath": "C:\\cplusworks\\Basic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|C:\\cplusworks\\Basic\\Basic\\inputData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|solutionrelative:Basic\\inputData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|C:\\cplusworks\\Basic\\Basic\\stringEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|solutionrelative:Basic\\stringEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|C:\\cplusworks\\Basic\\Basic\\coupon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|solutionrelative:Basic\\coupon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|C:\\cplusworks\\Basic\\Basic\\ctimeEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|solutionrelative:Basic\\ctimeEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|C:\\cplusworks\\Basic\\Basic\\cmathEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|solutionrelative:Basic\\cmathEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|C:\\cplusworks\\Basic\\Basic\\defaultParameter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|solutionrelative:Basic\\defaultParameter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|C:\\cplusworks\\Basic\\Basic\\functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|solutionrelative:Basic\\functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|C:\\cplusworks\\Basic\\Basic\\arrayString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|solutionrelative:Basic\\arrayString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|C:\\cplusworks\\Basic\\Basic\\keyRepeat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|solutionrelative:Basic\\keyRepeat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|C:\\cplusworks\\Basic\\Basic\\inputData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|solutionrelative:Basic\\inputData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|C:\\cplusworks\\Basic\\Basic\\printData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|solutionrelative:Basic\\printData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|C:\\cplusworks\\Basic\\Basic\\variableEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|solutionrelative:Basic\\variableEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|C:\\cplusworks\\Basic\\Basic\\printData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|solutionrelative:Basic\\printData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|C:\\cplusworks\\Basic\\Basic\\functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|solutionrelative:Basic\\functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|C:\\cplusworks\\Basic\\Basic\\defaultParameter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|solutionrelative:Basic\\defaultParameter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|C:\\cplusworks\\Basic\\Basic\\arrayString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|solutionrelative:Basic\\arrayString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|C:\\cplusworks\\Basic\\Basic\\stringEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|solutionrelative:Basic\\stringEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|C:\\cplusworks\\Basic\\Basic\\cmathEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC3E9AF5-D2AE-4320-ACDA-96C1FCABB1B0}|Basic\\Basic.vcxproj|solutionrelative:Basic\\cmathEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,24 +54,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "coupon.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Basic\\Basic\\coupon.cpp",
+              "RelativeDocumentMoniker": "Basic\\coupon.cpp",
+              "ToolTip": "C:\\cplusworks\\Basic\\Basic\\coupon.cpp",
+              "RelativeToolTip": "Basic\\coupon.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-25T08:36:31.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "stringEx.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Basic\\Basic\\stringEx.cpp",
               "RelativeDocumentMoniker": "Basic\\stringEx.cpp",
               "ToolTip": "C:\\cplusworks\\Basic\\Basic\\stringEx.cpp",
               "RelativeToolTip": "Basic\\stringEx.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-25T07:35:02.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T07:35:02.329Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ctimeEx.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Basic\\Basic\\ctimeEx.cpp",
               "RelativeDocumentMoniker": "Basic\\ctimeEx.cpp",
@@ -75,12 +91,11 @@
               "RelativeToolTip": "Basic\\ctimeEx.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-25T07:16:18.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T07:16:18.14Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "cmathEx.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Basic\\Basic\\cmathEx.cpp",
               "RelativeDocumentMoniker": "Basic\\cmathEx.cpp",
@@ -88,12 +103,11 @@
               "RelativeToolTip": "Basic\\cmathEx.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-25T07:08:37.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T07:08:37.141Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "defaultParameter.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Basic\\Basic\\defaultParameter.cpp",
               "RelativeDocumentMoniker": "Basic\\defaultParameter.cpp",
@@ -101,12 +115,11 @@
               "RelativeToolTip": "Basic\\defaultParameter.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-24T08:42:20.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-24T08:42:20.431Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "functions.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Basic\\Basic\\functions.cpp",
               "RelativeDocumentMoniker": "Basic\\functions.cpp",
@@ -118,19 +131,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "arrayString.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Basic\\Basic\\arrayString.cpp",
               "RelativeDocumentMoniker": "Basic\\arrayString.cpp",
               "ToolTip": "C:\\cplusworks\\Basic\\Basic\\arrayString.cpp",
               "RelativeToolTip": "Basic\\arrayString.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-24T08:19:24.477Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "keyRepeat.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Basic\\Basic\\keyRepeat.cpp",
               "RelativeDocumentMoniker": "Basic\\keyRepeat.cpp",
@@ -142,32 +155,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "inputData.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Basic\\Basic\\inputData.cpp",
               "RelativeDocumentMoniker": "Basic\\inputData.cpp",
               "ToolTip": "C:\\cplusworks\\Basic\\Basic\\inputData.cpp",
               "RelativeToolTip": "Basic\\inputData.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-24T07:42:42.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-24T07:42:42.894Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "variableEx.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Basic\\Basic\\variableEx.cpp",
               "RelativeDocumentMoniker": "Basic\\variableEx.cpp",
               "ToolTip": "C:\\cplusworks\\Basic\\Basic\\variableEx.cpp",
               "RelativeToolTip": "Basic\\variableEx.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-24T07:21:33.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "printData.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Basic\\Basic\\printData.cpp",
               "RelativeDocumentMoniker": "Basic\\printData.cpp",
