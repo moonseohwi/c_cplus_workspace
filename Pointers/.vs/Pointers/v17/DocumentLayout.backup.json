@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cplusworks\\Pointers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF40E2B-075F-41D6-8C37-8B08FBDE99C6}|Pointers\\Pointers.vcxproj|C:\\cplusworks\\Pointers\\Pointers\\newDelete2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BFF40E2B-075F-41D6-8C37-8B08FBDE99C6}|Pointers\\Pointers.vcxproj|solutionrelative:Pointers\\newDelete2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF40E2B-075F-41D6-8C37-8B08FBDE99C6}|Pointers\\Pointers.vcxproj|C:\\cplusworks\\Pointers\\Pointers\\newDelete1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BFF40E2B-075F-41D6-8C37-8B08FBDE99C6}|Pointers\\Pointers.vcxproj|solutionrelative:Pointers\\newDelete1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "newDelete2.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Pointers\\Pointers\\newDelete2.cpp",
+              "RelativeDocumentMoniker": "Pointers\\newDelete2.cpp",
+              "ToolTip": "C:\\cplusworks\\Pointers\\Pointers\\newDelete2.cpp",
+              "RelativeToolTip": "Pointers\\newDelete2.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-28T07:31:59.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "newDelete1.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Pointers\\Pointers\\newDelete1.cpp",
+              "RelativeDocumentMoniker": "Pointers\\newDelete1.cpp",
+              "ToolTip": "C:\\cplusworks\\Pointers\\Pointers\\newDelete1.cpp",
+              "RelativeToolTip": "Pointers\\newDelete1.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-28T07:10:55.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cplusworks\\Classes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F554CF7-5E9C-4484-A269-50F0D8A0A6A0}|Classes\\Classes.vcxproj|C:\\cplusworks\\Classes\\Classes\\destructorDog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F554CF7-5E9C-4484-A269-50F0D8A0A6A0}|Classes\\Classes.vcxproj|solutionrelative:Classes\\destructorDog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F554CF7-5E9C-4484-A269-50F0D8A0A6A0}|Classes\\Classes.vcxproj|C:\\cplusworks\\Classes\\Classes\\constructorDog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F554CF7-5E9C-4484-A269-50F0D8A0A6A0}|Classes\\Classes.vcxproj|solutionrelative:Classes\\constructorDog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F554CF7-5E9C-4484-A269-50F0D8A0A6A0}|Classes\\Classes.vcxproj|C:\\cplusworks\\Classes\\Classes\\classDog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F554CF7-5E9C-4484-A269-50F0D8A0A6A0}|Classes\\Classes.vcxproj|solutionrelative:Classes\\classDog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "destructorDog.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Classes\\Classes\\destructorDog.cpp",
+              "RelativeDocumentMoniker": "Classes\\destructorDog.cpp",
+              "ToolTip": "C:\\cplusworks\\Classes\\Classes\\destructorDog.cpp",
+              "RelativeToolTip": "Classes\\destructorDog.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-28T08:38:43.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "constructorDog.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Classes\\Classes\\constructorDog.cpp",
+              "RelativeDocumentMoniker": "Classes\\constructorDog.cpp",
+              "ToolTip": "C:\\cplusworks\\Classes\\Classes\\constructorDog.cpp",
+              "RelativeToolTip": "Classes\\constructorDog.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-28T08:24:13.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "classDog.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Classes\\Classes\\classDog.cpp",
+              "RelativeDocumentMoniker": "Classes\\classDog.cpp",
+              "ToolTip": "C:\\cplusworks\\Classes\\Classes\\classDog.cpp",
+              "RelativeToolTip": "Classes\\classDog.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAzwBcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-28T08:10:10.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
