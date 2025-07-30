@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cplusworks\\Classes2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51132D50-1DFB-430F-9636-CE33636A840B}|Classes2\\Classes2.vcxproj|C:\\cplusworks\\Classes2\\Classes2\\StudentMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51132D50-1DFB-430F-9636-CE33636A840B}|Classes2\\Classes2.vcxproj|solutionrelative:Classes2\\StudentMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51132D50-1DFB-430F-9636-CE33636A840B}|Classes2\\Classes2.vcxproj|C:\\cplusworks\\Classes2\\Classes2\\Subject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51132D50-1DFB-430F-9636-CE33636A840B}|Classes2\\Classes2.vcxproj|solutionrelative:Classes2\\Subject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51132D50-1DFB-430F-9636-CE33636A840B}|Classes2\\Classes2.vcxproj|C:\\cplusworks\\Classes2\\Classes2\\Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51132D50-1DFB-430F-9636-CE33636A840B}|Classes2\\Classes2.vcxproj|solutionrelative:Classes2\\Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51132D50-1DFB-430F-9636-CE33636A840B}|Classes2\\Classes2.vcxproj|C:\\cplusworks\\Classes2\\Classes2\\Subject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51132D50-1DFB-430F-9636-CE33636A840B}|Classes2\\Classes2.vcxproj|solutionrelative:Classes2\\Subject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51132D50-1DFB-430F-9636-CE33636A840B}|Classes2\\Classes2.vcxproj|C:\\cplusworks\\Classes2\\Classes2\\student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51132D50-1DFB-430F-9636-CE33636A840B}|Classes2\\Classes2.vcxproj|solutionrelative:Classes2\\student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51132D50-1DFB-430F-9636-CE33636A840B}|Classes2\\Classes2.vcxproj|C:\\cplusworks\\Classes2\\Classes2\\Point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51132D50-1DFB-430F-9636-CE33636A840B}|Classes2\\Classes2.vcxproj|solutionrelative:Classes2\\Point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51132D50-1DFB-430F-9636-CE33636A840B}|Classes2\\Classes2.vcxproj|C:\\cplusworks\\Classes2\\Classes2\\Circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51132D50-1DFB-430F-9636-CE33636A840B}|Classes2\\Classes2.vcxproj|solutionrelative:Classes2\\Circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51132D50-1DFB-430F-9636-CE33636A840B}|Classes2\\Classes2.vcxproj|C:\\cplusworks\\Classes2\\Classes2\\CircleMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51132D50-1DFB-430F-9636-CE33636A840B}|Classes2\\Classes2.vcxproj|solutionrelative:Classes2\\CircleMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51132D50-1DFB-430F-9636-CE33636A840B}|Classes2\\Classes2.vcxproj|C:\\cplusworks\\Classes2\\Classes2\\Circle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51132D50-1DFB-430F-9636-CE33636A840B}|Classes2\\Classes2.vcxproj|solutionrelative:Classes2\\Circle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51132D50-1DFB-430F-9636-CE33636A840B}|Classes2\\Classes2.vcxproj|C:\\cplusworks\\Classes2\\Classes2\\Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51132D50-1DFB-430F-9636-CE33636A840B}|Classes2\\Classes2.vcxproj|solutionrelative:Classes2\\Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51132D50-1DFB-430F-9636-CE33636A840B}|Classes2\\Classes2.vcxproj|C:\\cplusworks\\Classes2\\Classes2\\MemberService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51132D50-1DFB-430F-9636-CE33636A840B}|Classes2\\Classes2.vcxproj|solutionrelative:Classes2\\MemberService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentMain.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Classes2\\Classes2\\StudentMain.cpp",
+              "RelativeDocumentMoniker": "Classes2\\StudentMain.cpp",
+              "ToolTip": "C:\\cplusworks\\Classes2\\Classes2\\StudentMain.cpp*",
+              "RelativeToolTip": "Classes2\\StudentMain.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-30T08:31:03.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Classes2\\Classes2\\Student.cpp",
+              "RelativeDocumentMoniker": "Classes2\\Student.cpp",
+              "ToolTip": "C:\\cplusworks\\Classes2\\Classes2\\Student.cpp",
+              "RelativeToolTip": "Classes2\\Student.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-30T08:22:55.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.h",
+              "DocumentMoniker": "C:\\cplusworks\\Classes2\\Classes2\\Student.h",
+              "RelativeDocumentMoniker": "Classes2\\Student.h",
+              "ToolTip": "C:\\cplusworks\\Classes2\\Classes2\\Student.h",
+              "RelativeToolTip": "Classes2\\Student.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-30T08:17:19.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Subject.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Classes2\\Classes2\\Subject.cpp",
+              "RelativeDocumentMoniker": "Classes2\\Subject.cpp",
+              "ToolTip": "C:\\cplusworks\\Classes2\\Classes2\\Subject.cpp",
+              "RelativeToolTip": "Classes2\\Subject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-30T08:12:34.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Subject.h",
+              "DocumentMoniker": "C:\\cplusworks\\Classes2\\Classes2\\Subject.h",
+              "RelativeDocumentMoniker": "Classes2\\Subject.h",
+              "ToolTip": "C:\\cplusworks\\Classes2\\Classes2\\Subject.h",
+              "RelativeToolTip": "Classes2\\Subject.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-30T08:08:01.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CircleMain.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Classes2\\Classes2\\CircleMain.cpp",
+              "RelativeDocumentMoniker": "Classes2\\CircleMain.cpp",
+              "ToolTip": "C:\\cplusworks\\Classes2\\Classes2\\CircleMain.cpp",
+              "RelativeToolTip": "Classes2\\CircleMain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-30T07:44:54.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Circle.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Classes2\\Classes2\\Circle.cpp",
+              "RelativeDocumentMoniker": "Classes2\\Circle.cpp",
+              "ToolTip": "C:\\cplusworks\\Classes2\\Classes2\\Circle.cpp",
+              "RelativeToolTip": "Classes2\\Circle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-30T07:32:28.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Circle.h",
+              "DocumentMoniker": "C:\\cplusworks\\Classes2\\Classes2\\Circle.h",
+              "RelativeDocumentMoniker": "Classes2\\Circle.h",
+              "ToolTip": "C:\\cplusworks\\Classes2\\Classes2\\Circle.h",
+              "RelativeToolTip": "Classes2\\Circle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-30T07:30:15.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Point.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Classes2\\Classes2\\Point.cpp",
+              "RelativeDocumentMoniker": "Classes2\\Point.cpp",
+              "ToolTip": "C:\\cplusworks\\Classes2\\Classes2\\Point.cpp",
+              "RelativeToolTip": "Classes2\\Point.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-30T07:26:54.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Point.h",
+              "DocumentMoniker": "C:\\cplusworks\\Classes2\\Classes2\\Point.h",
+              "RelativeDocumentMoniker": "Classes2\\Point.h",
+              "ToolTip": "C:\\cplusworks\\Classes2\\Classes2\\Point.h",
+              "RelativeToolTip": "Classes2\\Point.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-30T07:24:26.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MemberService.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Classes2\\Classes2\\MemberService.cpp",
+              "RelativeDocumentMoniker": "Classes2\\MemberService.cpp",
+              "ToolTip": "C:\\cplusworks\\Classes2\\Classes2\\MemberService.cpp",
+              "RelativeToolTip": "Classes2\\MemberService.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-30T07:02:54.528Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
