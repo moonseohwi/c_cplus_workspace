@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cplusworks\\DataStructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48D6E777-BE93-40D0-AF8A-6AB4E54A2DB3}|DataStructure\\DataStructure.vcxproj|C:\\cplusworks\\DataStructure\\DataStructure\\CartList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48D6E777-BE93-40D0-AF8A-6AB4E54A2DB3}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\CartList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D6E777-BE93-40D0-AF8A-6AB4E54A2DB3}|DataStructure\\DataStructure.vcxproj|C:\\cplusworks\\DataStructure\\DataStructure\\VectorInt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48D6E777-BE93-40D0-AF8A-6AB4E54A2DB3}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\VectorInt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D6E777-BE93-40D0-AF8A-6AB4E54A2DB3}|DataStructure\\DataStructure.vcxproj|C:\\cplusworks\\DataStructure\\DataStructure\\AutoEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48D6E777-BE93-40D0-AF8A-6AB4E54A2DB3}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\AutoEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D6E777-BE93-40D0-AF8A-6AB4E54A2DB3}|DataStructure\\DataStructure.vcxproj|C:\\cplusworks\\DataStructure\\DataStructure\\Math.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48D6E777-BE93-40D0-AF8A-6AB4E54A2DB3}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\Math.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D6E777-BE93-40D0-AF8A-6AB4E54A2DB3}|DataStructure\\DataStructure.vcxproj|C:\\cplusworks\\DataStructure\\DataStructure\\QueueInt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48D6E777-BE93-40D0-AF8A-6AB4E54A2DB3}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\QueueInt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D6E777-BE93-40D0-AF8A-6AB4E54A2DB3}|DataStructure\\DataStructure.vcxproj|C:\\cplusworks\\DataStructure\\DataStructure\\StackChar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48D6E777-BE93-40D0-AF8A-6AB4E54A2DB3}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\StackChar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D6E777-BE93-40D0-AF8A-6AB4E54A2DB3}|DataStructure\\DataStructure.vcxproj|C:\\cplusworks\\DataStructure\\DataStructure\\StackEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48D6E777-BE93-40D0-AF8A-6AB4E54A2DB3}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\StackEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D6E777-BE93-40D0-AF8A-6AB4E54A2DB3}|DataStructure\\DataStructure.vcxproj|C:\\cplusworks\\DataStructure\\DataStructure\\QueueEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48D6E777-BE93-40D0-AF8A-6AB4E54A2DB3}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\QueueEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D6E777-BE93-40D0-AF8A-6AB4E54A2DB3}|DataStructure\\DataStructure.vcxproj|C:\\cplusworks\\DataStructure\\DataStructure\\MapEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48D6E777-BE93-40D0-AF8A-6AB4E54A2DB3}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\MapEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D6E777-BE93-40D0-AF8A-6AB4E54A2DB3}|DataStructure\\DataStructure.vcxproj|C:\\cplusworks\\DataStructure\\DataStructure\\ComDictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48D6E777-BE93-40D0-AF8A-6AB4E54A2DB3}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\ComDictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartList.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\DataStructure\\DataStructure\\CartList.cpp",
+              "RelativeDocumentMoniker": "DataStructure\\CartList.cpp",
+              "ToolTip": "C:\\cplusworks\\DataStructure\\DataStructure\\CartList.cpp",
+              "RelativeToolTip": "DataStructure\\CartList.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-07T07:42:00.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QueueEx.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\DataStructure\\DataStructure\\QueueEx.cpp",
+              "RelativeDocumentMoniker": "DataStructure\\QueueEx.cpp",
+              "ToolTip": "C:\\cplusworks\\DataStructure\\DataStructure\\QueueEx.cpp",
+              "RelativeToolTip": "DataStructure\\QueueEx.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-07T07:35:13.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QueueInt.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\DataStructure\\DataStructure\\QueueInt.cpp",
+              "RelativeDocumentMoniker": "DataStructure\\QueueInt.cpp",
+              "ToolTip": "C:\\cplusworks\\DataStructure\\DataStructure\\QueueInt.cpp",
+              "RelativeToolTip": "DataStructure\\QueueInt.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-07T07:25:45.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StackChar.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\DataStructure\\DataStructure\\StackChar.cpp",
+              "RelativeDocumentMoniker": "DataStructure\\StackChar.cpp",
+              "ToolTip": "C:\\cplusworks\\DataStructure\\DataStructure\\StackChar.cpp",
+              "RelativeToolTip": "DataStructure\\StackChar.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-07T07:10:17.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StackEx.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\DataStructure\\DataStructure\\StackEx.cpp",
+              "RelativeDocumentMoniker": "DataStructure\\StackEx.cpp",
+              "ToolTip": "C:\\cplusworks\\DataStructure\\DataStructure\\StackEx.cpp",
+              "RelativeToolTip": "DataStructure\\StackEx.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-06T08:48:13.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ComDictionary.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\DataStructure\\DataStructure\\ComDictionary.cpp",
+              "RelativeDocumentMoniker": "DataStructure\\ComDictionary.cpp",
+              "ToolTip": "C:\\cplusworks\\DataStructure\\DataStructure\\ComDictionary.cpp",
+              "RelativeToolTip": "DataStructure\\ComDictionary.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-06T08:23:20.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MapEx.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\DataStructure\\DataStructure\\MapEx.cpp",
+              "RelativeDocumentMoniker": "DataStructure\\MapEx.cpp",
+              "ToolTip": "C:\\cplusworks\\DataStructure\\DataStructure\\MapEx.cpp",
+              "RelativeToolTip": "DataStructure\\MapEx.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-06T08:05:08.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoEx.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\DataStructure\\DataStructure\\AutoEx.cpp",
+              "RelativeDocumentMoniker": "DataStructure\\AutoEx.cpp",
+              "ToolTip": "C:\\cplusworks\\DataStructure\\DataStructure\\AutoEx.cpp",
+              "RelativeToolTip": "DataStructure\\AutoEx.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-06T07:45:03.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VectorInt.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\DataStructure\\DataStructure\\VectorInt.cpp",
+              "RelativeDocumentMoniker": "DataStructure\\VectorInt.cpp",
+              "ToolTip": "C:\\cplusworks\\DataStructure\\DataStructure\\VectorInt.cpp",
+              "RelativeToolTip": "DataStructure\\VectorInt.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-06T07:21:54.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Math.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\DataStructure\\DataStructure\\Math.cpp",
+              "RelativeDocumentMoniker": "DataStructure\\Math.cpp",
+              "ToolTip": "C:\\cplusworks\\DataStructure\\DataStructure\\Math.cpp",
+              "RelativeToolTip": "DataStructure\\Math.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-06T07:07:11.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

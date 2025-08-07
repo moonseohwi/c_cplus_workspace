@@ -1,4 +1,5 @@
 //StudentMain.cpp 보조
+//StudentsMain.cpp 보조
 
 #include "Subject.h"
 

@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cplusworks\\Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86F1D4B9-D27E-4321-BE4C-6C2FA902AC85}|Inheritance\\Inheritance.vcxproj|C:\\cplusworks\\Inheritance\\Inheritance\\Stataement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86F1D4B9-D27E-4321-BE4C-6C2FA902AC85}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\Stataement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F1D4B9-D27E-4321-BE4C-6C2FA902AC85}|Inheritance\\Inheritance.vcxproj|C:\\cplusworks\\Inheritance\\Inheritance\\Drink.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86F1D4B9-D27E-4321-BE4C-6C2FA902AC85}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\Drink.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F1D4B9-D27E-4321-BE4C-6C2FA902AC85}|Inheritance\\Inheritance.vcxproj|C:\\cplusworks\\Inheritance\\Inheritance\\Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86F1D4B9-D27E-4321-BE4C-6C2FA902AC85}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F1D4B9-D27E-4321-BE4C-6C2FA902AC85}|Inheritance\\Inheritance.vcxproj|C:\\cplusworks\\Inheritance\\Inheritance\\Alcohol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86F1D4B9-D27E-4321-BE4C-6C2FA902AC85}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\Alcohol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F1D4B9-D27E-4321-BE4C-6C2FA902AC85}|Inheritance\\Inheritance.vcxproj|C:\\cplusworks\\Inheritance\\Inheritance\\Drink.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86F1D4B9-D27E-4321-BE4C-6C2FA902AC85}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\Drink.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F1D4B9-D27E-4321-BE4C-6C2FA902AC85}|Inheritance\\Inheritance.vcxproj|C:\\cplusworks\\Inheritance\\Inheritance\\Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86F1D4B9-D27E-4321-BE4C-6C2FA902AC85}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F1D4B9-D27E-4321-BE4C-6C2FA902AC85}|Inheritance\\Inheritance.vcxproj|C:\\cplusworks\\Inheritance\\Inheritance\\Alcohol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86F1D4B9-D27E-4321-BE4C-6C2FA902AC85}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\Alcohol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F1D4B9-D27E-4321-BE4C-6C2FA902AC85}|Inheritance\\Inheritance.vcxproj|C:\\cplusworks\\Inheritance\\Inheritance\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86F1D4B9-D27E-4321-BE4C-6C2FA902AC85}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F1D4B9-D27E-4321-BE4C-6C2FA902AC85}|Inheritance\\Inheritance.vcxproj|C:\\cplusworks\\Inheritance\\Inheritance\\StudentMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86F1D4B9-D27E-4321-BE4C-6C2FA902AC85}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\StudentMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F1D4B9-D27E-4321-BE4C-6C2FA902AC85}|Inheritance\\Inheritance.vcxproj|C:\\cplusworks\\Inheritance\\Inheritance\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86F1D4B9-D27E-4321-BE4C-6C2FA902AC85}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stataement.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Inheritance\\Inheritance\\Stataement.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\Stataement.cpp",
+              "ToolTip": "C:\\cplusworks\\Inheritance\\Inheritance\\Stataement.cpp",
+              "RelativeToolTip": "Inheritance\\Stataement.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-05T07:28:52.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Alcohol.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Inheritance\\Inheritance\\Alcohol.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\Alcohol.cpp",
+              "ToolTip": "C:\\cplusworks\\Inheritance\\Inheritance\\Alcohol.cpp",
+              "RelativeToolTip": "Inheritance\\Alcohol.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-05T07:18:28.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Alcohol.h",
+              "DocumentMoniker": "C:\\cplusworks\\Inheritance\\Inheritance\\Alcohol.h",
+              "RelativeDocumentMoniker": "Inheritance\\Alcohol.h",
+              "ToolTip": "C:\\cplusworks\\Inheritance\\Inheritance\\Alcohol.h",
+              "RelativeToolTip": "Inheritance\\Alcohol.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-05T07:18:23.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Drink.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Inheritance\\Inheritance\\Drink.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\Drink.cpp",
+              "ToolTip": "C:\\cplusworks\\Inheritance\\Inheritance\\Drink.cpp",
+              "RelativeToolTip": "Inheritance\\Drink.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-05T07:12:40.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Drink.h",
+              "DocumentMoniker": "C:\\cplusworks\\Inheritance\\Inheritance\\Drink.h",
+              "RelativeDocumentMoniker": "Inheritance\\Drink.h",
+              "ToolTip": "C:\\cplusworks\\Inheritance\\Inheritance\\Drink.h",
+              "RelativeToolTip": "Inheritance\\Drink.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-05T07:08:38.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentMain.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Inheritance\\Inheritance\\StudentMain.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\StudentMain.cpp",
+              "ToolTip": "C:\\cplusworks\\Inheritance\\Inheritance\\StudentMain.cpp",
+              "RelativeToolTip": "Inheritance\\StudentMain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-04T08:50:38.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Inheritance\\Inheritance\\Student.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\Student.cpp",
+              "ToolTip": "C:\\cplusworks\\Inheritance\\Inheritance\\Student.cpp",
+              "RelativeToolTip": "Inheritance\\Student.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-04T08:45:24.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.h",
+              "DocumentMoniker": "C:\\cplusworks\\Inheritance\\Inheritance\\Student.h",
+              "RelativeDocumentMoniker": "Inheritance\\Student.h",
+              "ToolTip": "C:\\cplusworks\\Inheritance\\Inheritance\\Student.h",
+              "RelativeToolTip": "Inheritance\\Student.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-04T08:42:28.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Inheritance\\Inheritance\\Person.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\Person.cpp",
+              "ToolTip": "C:\\cplusworks\\Inheritance\\Inheritance\\Person.cpp",
+              "RelativeToolTip": "Inheritance\\Person.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-04T08:39:29.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Person.h",
+              "DocumentMoniker": "C:\\cplusworks\\Inheritance\\Inheritance\\Person.h",
+              "RelativeDocumentMoniker": "Inheritance\\Person.h",
+              "ToolTip": "C:\\cplusworks\\Inheritance\\Inheritance\\Person.h",
+              "RelativeToolTip": "Inheritance\\Person.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-04T08:37:36.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,4 +1,5 @@
 //StudentMain.cpp 보조
+//StudentMains.cpp 보조
 
 #ifndef SUBJECT_H
 #define SUBJECT_H

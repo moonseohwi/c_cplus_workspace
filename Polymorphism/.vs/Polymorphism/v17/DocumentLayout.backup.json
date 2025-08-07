@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cplusworks\\Polymorphism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D31F5CF9-1492-4494-A6F0-080D2BD5D302}|Polymorphism\\Polymorphism.vcxproj|C:\\cplusworks\\Polymorphism\\Polymorphism\\Dog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D31F5CF9-1492-4494-A6F0-080D2BD5D302}|Polymorphism\\Polymorphism.vcxproj|solutionrelative:Polymorphism\\Dog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31F5CF9-1492-4494-A6F0-080D2BD5D302}|Polymorphism\\Polymorphism.vcxproj|C:\\cplusworks\\Polymorphism\\Polymorphism\\Animal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D31F5CF9-1492-4494-A6F0-080D2BD5D302}|Polymorphism\\Polymorphism.vcxproj|solutionrelative:Polymorphism\\Animal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31F5CF9-1492-4494-A6F0-080D2BD5D302}|Polymorphism\\Polymorphism.vcxproj|C:\\cplusworks\\Polymorphism\\Polymorphism\\Cat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D31F5CF9-1492-4494-A6F0-080D2BD5D302}|Polymorphism\\Polymorphism.vcxproj|solutionrelative:Polymorphism\\Cat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31F5CF9-1492-4494-A6F0-080D2BD5D302}|Polymorphism\\Polymorphism.vcxproj|C:\\cplusworks\\Polymorphism\\Polymorphism\\VirtualAnimalEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D31F5CF9-1492-4494-A6F0-080D2BD5D302}|Polymorphism\\Polymorphism.vcxproj|solutionrelative:Polymorphism\\VirtualAnimalEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31F5CF9-1492-4494-A6F0-080D2BD5D302}|Polymorphism\\Polymorphism.vcxproj|C:\\cplusworks\\Polymorphism\\Polymorphism\\VirtualAnimalEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D31F5CF9-1492-4494-A6F0-080D2BD5D302}|Polymorphism\\Polymorphism.vcxproj|solutionrelative:Polymorphism\\VirtualAnimalEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dog.h",
+              "DocumentMoniker": "C:\\cplusworks\\Polymorphism\\Polymorphism\\Dog.h",
+              "RelativeDocumentMoniker": "Polymorphism\\Dog.h",
+              "ToolTip": "C:\\cplusworks\\Polymorphism\\Polymorphism\\Dog.h",
+              "RelativeToolTip": "Polymorphism\\Dog.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-05T08:31:37.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.h",
+              "DocumentMoniker": "C:\\cplusworks\\Polymorphism\\Polymorphism\\Animal.h",
+              "RelativeDocumentMoniker": "Polymorphism\\Animal.h",
+              "ToolTip": "C:\\cplusworks\\Polymorphism\\Polymorphism\\Animal.h",
+              "RelativeToolTip": "Polymorphism\\Animal.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-05T08:31:23.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cat.h",
+              "DocumentMoniker": "C:\\cplusworks\\Polymorphism\\Polymorphism\\Cat.h",
+              "RelativeDocumentMoniker": "Polymorphism\\Cat.h",
+              "ToolTip": "C:\\cplusworks\\Polymorphism\\Polymorphism\\Cat.h",
+              "RelativeToolTip": "Polymorphism\\Cat.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-05T08:31:11.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VirtualAnimalEx2.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Polymorphism\\Polymorphism\\VirtualAnimalEx2.cpp",
+              "RelativeDocumentMoniker": "Polymorphism\\VirtualAnimalEx2.cpp",
+              "ToolTip": "C:\\cplusworks\\Polymorphism\\Polymorphism\\VirtualAnimalEx2.cpp",
+              "RelativeToolTip": "Polymorphism\\VirtualAnimalEx2.cpp",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-05T08:18:45.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VirtualAnimalEx1.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Polymorphism\\Polymorphism\\VirtualAnimalEx1.cpp",
+              "RelativeDocumentMoniker": "Polymorphism\\VirtualAnimalEx1.cpp",
+              "ToolTip": "C:\\cplusworks\\Polymorphism\\Polymorphism\\VirtualAnimalEx1.cpp",
+              "RelativeToolTip": "Polymorphism\\VirtualAnimalEx1.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-05T08:01:22.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
